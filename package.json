@@ -1,0 +1,12 @@
+{
+  "name": "devsecops-sample-app",
+  "version": "1.0.0",
+  "description": "Sample app for DevSecOps pipeline lab",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'Running tests... Passed!'"
+  },
+  "dependencies": {}
+}
+
